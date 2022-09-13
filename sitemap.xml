@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://james-y-yoon.github.io/james-y-yoon/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://james-y-yoon.github.io/james-y-yoon/</loc>
+</url>
+<url>
+<loc>https://james-y-yoon.github.io/james-y-yoon/about/</loc>
+<lastmod>2022-09-13T02:21:55-07:00</lastmod>
+<image:image>
+<image:loc>https://james-y-yoon.github.io/james-y-yoon/media/posts/2/james_powell.jpeg</image:loc>
+<image:title><![CDATA[Portrait of James Yoon]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://james-y-yoon.github.io/james-y-yoon/air-qualitree/</loc>
+<lastmod>2022-09-13T02:16:29-07:00</lastmod>
+<image:image>
+<image:loc>https://james-y-yoon.github.io/james-y-yoon/media/posts/5/Environment.jpeg</image:loc>
+<image:title><![CDATA[Pollution from smokestacks.]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://james-y-yoon.github.io/james-y-yoon/european-emigre-actors-in-hollywood/</loc>
+<lastmod>2022-09-13T02:16:34-07:00</lastmod>
+<image:image>
+<image:loc>https://james-y-yoon.github.io/james-y-yoon/media/posts/4/Thomas_Mann.jpeg</image:loc>
+<image:title><![CDATA[Illustration by Cristiana Couceiro of Franz Werfel, Salka Viertel, Lion Feuchtwanger, and Thomas Mann, four influential European emigres.]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://james-y-yoon.github.io/james-y-yoon/go-for-broke-national-education-center/</loc>
+<lastmod>2022-09-13T02:16:24-07:00</lastmod>
+<image:image>
+<image:loc>https://james-y-yoon.github.io/james-y-yoon/media/posts/8/GFBNEC.jpg</image:loc>
+<image:title><![CDATA[Go For Broke Monument in Little Tokyo.]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://james-y-yoon.github.io/james-y-yoon/media/posts/8/Screen-Shot-2022-09-13-at-1.54.16-AM.png</image:loc>
+<image:title><![CDATA[Units represented in the Hanashi Oral History collection.]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://james-y-yoon.github.io/james-y-yoon/media/posts/8/Screen-Shot-2022-09-13-at-1.54.30-AM.png</image:loc>
+<image:title><![CDATA[Another visualization that shows the incarceration camps and temporary detention facilities that the interviewees were in during WWII.]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://james-y-yoon.github.io/james-y-yoon/media/posts/8/Screen-Shot-2022-09-13-at-1.54.38-AM.png</image:loc>
+<image:title><![CDATA[Visualization that shows the basic training camps and MIS language schools that the interviewees attended. Camp Savage and Fort Snelling were two iterations of the Military Intelligence Service's Language Schools in Minnesota.]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://james-y-yoon.github.io/james-y-yoon/media/posts/8/Screen-Shot-2022-09-13-at-1.54.48-AM.png</image:loc>
+<image:title><![CDATA[Map that shows where the interviewees were born.]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://james-y-yoon.github.io/james-y-yoon/hi-there-my-names-james/</loc>
+<lastmod>2022-09-13T00:10:55-07:00</lastmod>
+</url>
+<url>
+<loc>https://james-y-yoon.github.io/james-y-yoon/improving-the-uxui-of-ultimate-guitar/</loc>
+<lastmod>2022-09-13T02:21:30-07:00</lastmod>
+<image:image>
+<image:loc>https://james-y-yoon.github.io/james-y-yoon/media/posts/3/Final_Prototype.png</image:loc>
+<image:title><![CDATA[Final Prototype of my Ultimate-Guitar redesign.]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://james-y-yoon.github.io/james-y-yoon/teaching/</loc>
+<lastmod>2022-09-13T01:44:06-07:00</lastmod>
+</url>
+</urlset>
