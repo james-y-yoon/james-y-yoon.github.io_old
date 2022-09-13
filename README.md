@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Initial Commit!
 <!--
 **james-y-yoon/james-y-yoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
