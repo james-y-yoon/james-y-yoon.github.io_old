@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>James Yoon</title>
+    <title>James Yoon&#x27;s Portfolio</title>
     <link href="https://james-y-yoon.github.io/feed.xml" rel="self" />
     <link href="https://james-y-yoon.github.io" />
-    <updated>2022-09-13T02:21:55-07:00</updated>
+    <updated>2022-12-11T18:03:15-08:00</updated>
     <author>
         <name>James (Young Suk) Yoon</name>
     </author>
@@ -19,11 +19,11 @@
             <category term="History"/>
             <category term="Digital Humanities"/>
 
-        <updated>2022-09-13T02:16:24-07:00</updated>
+        <updated>2022-12-11T18:03:15-08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://james-y-yoon.github.io/media/posts/8/GFBNEC.jpg" alt="Go For Broke Monument in Little Tokyo." />
-                    During World War II, the United States government incarcerated over a hundred thousand Japanese Americans in camps like Manzanar and&hellip;
+                    During World War II, the United States government incarcerated over a hundred thousand Japanese Americans in camps like Manzanar and Tule Lake. For years,&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -34,17 +34,17 @@
 <h2>Final Project</h2>
 <p>For my final project, I recorded the demographics and metadata for 900+ oral histories in the Hanashi Oral History Collection and visualized the data using Tableau and Voyant Tools. It was such a great opportunity to create a new dataset, clean the data, and visualize it all over the course of ten weeks! </p>
 <p>Some of the visualizations can be found below!</p>
-<figure class="post__image" ><img loading="lazy" src="https://james-y-yoon.github.io/media/posts/8/Screen-Shot-2022-09-13-at-1.54.16-AM.png" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://james-y-yoon.github.io/media/posts/8/responsive/Screen-Shot-2022-09-13-at-1.54.16-AM-xs.png 384w ,https://james-y-yoon.github.io/media/posts/8/responsive/Screen-Shot-2022-09-13-at-1.54.16-AM-sm.png 600w ,https://james-y-yoon.github.io/media/posts/8/responsive/Screen-Shot-2022-09-13-at-1.54.16-AM-md.png 768w ,https://james-y-yoon.github.io/media/posts/8/responsive/Screen-Shot-2022-09-13-at-1.54.16-AM-lg.png 1200w ,https://james-y-yoon.github.io/media/posts/8/responsive/Screen-Shot-2022-09-13-at-1.54.16-AM-xl.png 1600w"  alt="Units represented in the Hanashi Oral History collection." width="1362" height="764">
+<figure class="post__image" ><img loading="lazy" src="https://james-y-yoon.github.io/media/posts/8/Screen-Shot-2022-09-13-at-1.54.16-AM.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://james-y-yoon.github.io/media/posts/8/responsive/Screen-Shot-2022-09-13-at-1.54.16-AM-xs.png 300w ,https://james-y-yoon.github.io/media/posts/8/responsive/Screen-Shot-2022-09-13-at-1.54.16-AM-sm.png 480w ,https://james-y-yoon.github.io/media/posts/8/responsive/Screen-Shot-2022-09-13-at-1.54.16-AM-md.png 768w ,https://james-y-yoon.github.io/media/posts/8/responsive/Screen-Shot-2022-09-13-at-1.54.16-AM-lg.png 1024w"  alt="Units represented in the Hanashi Oral History collection." width="1362" height="764">
 <figcaption >One of the data visualizations I created on Tableau showing the units represented in the Hanashi Oral History collection. Many of the interviewees were in the 442nd, the Military Intelligence Service, and the 100th Battalion.</figcaption>
 </figure>
-<figure class="post__image" ><img loading="lazy" src="https://james-y-yoon.github.io/media/posts/8/Screen-Shot-2022-09-13-at-1.54.30-AM.png" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://james-y-yoon.github.io/media/posts/8/responsive/Screen-Shot-2022-09-13-at-1.54.30-AM-xs.png 384w ,https://james-y-yoon.github.io/media/posts/8/responsive/Screen-Shot-2022-09-13-at-1.54.30-AM-sm.png 600w ,https://james-y-yoon.github.io/media/posts/8/responsive/Screen-Shot-2022-09-13-at-1.54.30-AM-md.png 768w ,https://james-y-yoon.github.io/media/posts/8/responsive/Screen-Shot-2022-09-13-at-1.54.30-AM-lg.png 1200w ,https://james-y-yoon.github.io/media/posts/8/responsive/Screen-Shot-2022-09-13-at-1.54.30-AM-xl.png 1600w"  alt="Another visualization that shows the incarceration camps and temporary detention facilities that the interviewees were in during WWII." width="1002" height="644">
+<figure class="post__image" ><img loading="lazy" src="https://james-y-yoon.github.io/media/posts/8/Screen-Shot-2022-09-13-at-1.54.30-AM.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://james-y-yoon.github.io/media/posts/8/responsive/Screen-Shot-2022-09-13-at-1.54.30-AM-xs.png 300w ,https://james-y-yoon.github.io/media/posts/8/responsive/Screen-Shot-2022-09-13-at-1.54.30-AM-sm.png 480w ,https://james-y-yoon.github.io/media/posts/8/responsive/Screen-Shot-2022-09-13-at-1.54.30-AM-md.png 768w ,https://james-y-yoon.github.io/media/posts/8/responsive/Screen-Shot-2022-09-13-at-1.54.30-AM-lg.png 1024w"  alt="Another visualization that shows the incarceration camps and temporary detention facilities that the interviewees were in during WWII." width="1002" height="644">
 <figcaption >Another visualization that shows the incarceration camps and temporary detention facilities that the interviewees were in during WWII.</figcaption>
 </figure>
 <p> </p>
-<figure class="post__image" ><img loading="lazy" src="https://james-y-yoon.github.io/media/posts/8/Screen-Shot-2022-09-13-at-1.54.38-AM.png" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://james-y-yoon.github.io/media/posts/8/responsive/Screen-Shot-2022-09-13-at-1.54.38-AM-xs.png 384w ,https://james-y-yoon.github.io/media/posts/8/responsive/Screen-Shot-2022-09-13-at-1.54.38-AM-sm.png 600w ,https://james-y-yoon.github.io/media/posts/8/responsive/Screen-Shot-2022-09-13-at-1.54.38-AM-md.png 768w ,https://james-y-yoon.github.io/media/posts/8/responsive/Screen-Shot-2022-09-13-at-1.54.38-AM-lg.png 1200w ,https://james-y-yoon.github.io/media/posts/8/responsive/Screen-Shot-2022-09-13-at-1.54.38-AM-xl.png 1600w"  alt="Visualization that shows the basic training camps and MIS language schools that the interviewees attended. Camp Savage and Fort Snelling were two iterations of the Military Intelligence Service's Language Schools in Minnesota." width="982" height="642">
+<figure class="post__image" ><img loading="lazy" src="https://james-y-yoon.github.io/media/posts/8/Screen-Shot-2022-09-13-at-1.54.38-AM.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://james-y-yoon.github.io/media/posts/8/responsive/Screen-Shot-2022-09-13-at-1.54.38-AM-xs.png 300w ,https://james-y-yoon.github.io/media/posts/8/responsive/Screen-Shot-2022-09-13-at-1.54.38-AM-sm.png 480w ,https://james-y-yoon.github.io/media/posts/8/responsive/Screen-Shot-2022-09-13-at-1.54.38-AM-md.png 768w ,https://james-y-yoon.github.io/media/posts/8/responsive/Screen-Shot-2022-09-13-at-1.54.38-AM-lg.png 1024w"  alt="Visualization that shows the basic training camps and MIS language schools that the interviewees attended. Camp Savage and Fort Snelling were two iterations of the Military Intelligence Service's Language Schools in Minnesota." width="982" height="642">
 <figcaption >Visualization that shows the basic training camps and MIS language schools that the interviewees attended. Camp Savage and Fort Snelling were two iterations of the Military Intelligence Service's Language Schools in Minnesota.</figcaption>
 </figure>
-<figure class="post__image"><img loading="lazy"  src="https://james-y-yoon.github.io/media/posts/8/Screen-Shot-2022-09-13-at-1.54.48-AM.png" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://james-y-yoon.github.io/media/posts/8/responsive/Screen-Shot-2022-09-13-at-1.54.48-AM-xs.png 384w ,https://james-y-yoon.github.io/media/posts/8/responsive/Screen-Shot-2022-09-13-at-1.54.48-AM-sm.png 600w ,https://james-y-yoon.github.io/media/posts/8/responsive/Screen-Shot-2022-09-13-at-1.54.48-AM-md.png 768w ,https://james-y-yoon.github.io/media/posts/8/responsive/Screen-Shot-2022-09-13-at-1.54.48-AM-lg.png 1200w ,https://james-y-yoon.github.io/media/posts/8/responsive/Screen-Shot-2022-09-13-at-1.54.48-AM-xl.png 1600w"  alt="Map that shows where the interviewees were born." width="974" height="642"><figcaption>Map that shows where the interviewees were born. Many of the interviewees were born in Hawai'i, the Pacific Northwest, the Bay Area, and Los Angeles, with some born in Japan and across the contiguous United States.</figcaption></figure>
+<figure class="post__image"><img loading="lazy"  src="https://james-y-yoon.github.io/media/posts/8/Screen-Shot-2022-09-13-at-1.54.48-AM.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://james-y-yoon.github.io/media/posts/8/responsive/Screen-Shot-2022-09-13-at-1.54.48-AM-xs.png 300w ,https://james-y-yoon.github.io/media/posts/8/responsive/Screen-Shot-2022-09-13-at-1.54.48-AM-sm.png 480w ,https://james-y-yoon.github.io/media/posts/8/responsive/Screen-Shot-2022-09-13-at-1.54.48-AM-md.png 768w ,https://james-y-yoon.github.io/media/posts/8/responsive/Screen-Shot-2022-09-13-at-1.54.48-AM-lg.png 1024w"  alt="Map that shows where the interviewees were born." width="974" height="642"><figcaption>Map that shows where the interviewees were born. Many of the interviewees were born in Hawai'i, the Pacific Northwest, the Bay Area, and Los Angeles, with some born in Japan and across the contiguous United States.</figcaption></figure>
 <h1>Special Thanks<br><br></h1>
 <p>Huge thanks to Janis Tanji Wong and Dr. Mitch Maki, as well as the rest of the Go For Broke staff, for being such amazing mentors throughout the ten weeks. Also a shoutout to Aurora Tang for being such an incredible learning community leader!</p>
             ]]>
@@ -61,7 +61,7 @@
         <updated>2022-09-13T01:44:06-07:00</updated>
             <summary>
                 <![CDATA[
-                    The Learning Assistant Program At UCLA, I was a Head LA and a Program Development Team member for the Learning&hellip;
+                    The Learning Assistant Program At UCLA, I was a Head LA and a Program Development Team member for the Learning Assistant (LA) Program. The&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -95,7 +95,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://james-y-yoon.github.io/media/posts/5/Environment.jpeg" alt="Pollution from smokestacks." />
-                    Description AirQualitree was a project conducted for UCLA's introductory digital humanities course (Digital Humanities 101 with Dr. Ashley Sanders). I&hellip;
+                    Description AirQualitree was a project conducted for UCLA's introductory digital humanities course (Digital Humanities 101 with Dr. Ashley Sanders). I worked as a team&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -125,7 +125,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://james-y-yoon.github.io/media/posts/4/Thomas_Mann.jpeg" alt="Illustration by Cristiana Couceiro of Franz Werfel, Salka Viertel, Lion Feuchtwanger, and Thomas Mann, four influential European emigres." />
-                    Europeans in Exile: Thomas Mann in Los Angeles Upon Hitler's rise to power and his subsequent invasions across Europe, persecuted&hellip;
+                    Europeans in Exile: Thomas Mann in Los Angeles Upon Hitler's rise to power and his subsequent invasions across Europe, persecuted individuals—many of whom were&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -160,7 +160,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://james-y-yoon.github.io/media/posts/3/Final_Prototype.png" alt="Final Prototype of my Ultimate-Guitar redesign." />
-                    How can we make music learning accessible? Like many others who grew up on the World Wide Web, I learned&hellip;
+                    How can we make music learning accessible? Like many others who grew up on the World Wide Web, I learned the guitar through the&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -199,14 +199,14 @@
         <updated>2022-09-13T02:21:55-07:00</updated>
             <summary>
                 <![CDATA[
-                    First, a warm welcome to my portfolio! ‍‍I'm a UW graduate student and a UCLA alum who is interested in&hellip;
+                    First, a warm welcome to my portfolio! ‍‍I'm a UW graduate student and a UCLA alum who is interested in a wide variety of&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <p class="p1">First, a warm welcome to my portfolio!</p>
 <p class="p1"><i>‍</i>‍I'm a UW graduate student and a UCLA alum who is interested in a wide variety of fields: chemistry, education, atmospheric science, digital humanities, UX/UI, history, and communication. I'm a Northern California native, 1.5 generation Korean American, and a former Los Angeles transplant.<span class="Apple-converted-space"> </span></p>
-<figure class="post__image post__image--center" ><figure class="post__image"><img loading="lazy"  src="https://james-y-yoon.github.io/media/posts/2/james_powell.jpeg" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://james-y-yoon.github.io/media/posts/2/responsive/james_powell-xs.jpeg 384w ,https://james-y-yoon.github.io/media/posts/2/responsive/james_powell-sm.jpeg 600w ,https://james-y-yoon.github.io/media/posts/2/responsive/james_powell-md.jpeg 768w ,https://james-y-yoon.github.io/media/posts/2/responsive/james_powell-lg.jpeg 1200w ,https://james-y-yoon.github.io/media/posts/2/responsive/james_powell-xl.jpeg 1600w"  alt="Portrait of James Yoon" width="400" height="400"></figure>
+<figure class="post__image post__image--center" ><figure class="post__image"><img loading="lazy"  src="https://james-y-yoon.github.io/media/posts/2/james_powell.jpeg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://james-y-yoon.github.io/media/posts/2/responsive/james_powell-xs.jpeg 300w ,https://james-y-yoon.github.io/media/posts/2/responsive/james_powell-sm.jpeg 480w ,https://james-y-yoon.github.io/media/posts/2/responsive/james_powell-md.jpeg 768w ,https://james-y-yoon.github.io/media/posts/2/responsive/james_powell-lg.jpeg 1024w"  alt="Portrait of James Yoon" width="400" height="400"></figure>
 <figcaption >In front of UCLA's Powell Library. Go Bruins!</figcaption>
 </figure>
 <p class="p1">At UCLA, I studied <strong>Chemistry, Atmospheric &amp; Oceanic Sciences, and Digital Humanities</strong> with a specialization in computing. There, I also fostered my continuing interest in Asian American Studies, oral histories, and feminist theory. I loved studying the intersections of gender, sexuality, and race, as well as epistemology from an ethnic studies and feminist lens. Can't forget Foucault too!</p>
