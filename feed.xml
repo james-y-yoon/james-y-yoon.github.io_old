@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>James Yoon&#x27;s Portfolio</title>
+    <title>JAMES YOON</title>
     <link href="https://james-y-yoon.github.io/feed.xml" rel="self" />
     <link href="https://james-y-yoon.github.io" />
-    <updated>2022-12-15T19:57:34-08:00</updated>
+    <updated>2022-12-15T20:03:48-08:00</updated>
     <author>
         <name>James (Young Suk) Yoon</name>
     </author>
@@ -17,14 +17,16 @@
         <link href="https://james-y-yoon.github.io/atmospheric-chemistry-research/"/>
         <id>https://james-y-yoon.github.io/atmospheric-chemistry-research/</id>
 
-        <updated>2022-12-15T19:57:34-08:00</updated>
+        <updated>2022-12-15T20:02:27-08:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://james-y-yoon.github.io/media/posts/9/isoprene.png" alt="" />
                     I'm currently a first-year Atmospheric Chemistry graduate student at the University of Washington's Department of Atmospheric Sciences. I'm co-advised by&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://james-y-yoon.github.io/media/posts/9/isoprene.png" alt="" />
                 <p>I'm currently a first-year <strong>Atmospheric Chemistry graduate student</strong> at the University of Washington's <em>Department of Atmospheric Sciences</em>. I'm co-advised by <a href="https://alexjturner.github.io/">Dr. Alex Turner</a> and <a href="https://www.atmos.washington.edu/~thornton/">Dr. Joel Thornton</a>.</p>
 <p>My research focuses on biogenic volatile organic compounds (VOCs) emissions, their chemical transformations in the atmosphere, and their potential impacts on air quality. Specifically, I'm interested in detecting <strong>biogenic isoprene emissions from broadleaf forests</strong>. I study these compounds through remote sensing techniques like infrared spectroscopy and <strong>solar-induced fluoresence (SIF)</strong>. My current project uses solar-induced fluoresence as a potential proxy for isoprene emissions. </p>
 <hr>
@@ -44,7 +46,7 @@
             <category term="History"/>
             <category term="Digital Humanities"/>
 
-        <updated>2022-12-11T18:03:15-08:00</updated>
+        <updated>2022-12-15T20:02:12-08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://james-y-yoon.github.io/media/posts/8/GFBNEC.jpg" alt="Go For Broke Monument in Little Tokyo." />
@@ -70,6 +72,7 @@
 <figcaption >Visualization that shows the basic training camps and MIS language schools that the interviewees attended. Camp Savage and Fort Snelling were two iterations of the Military Intelligence Service's Language Schools in Minnesota.</figcaption>
 </figure>
 <figure class="post__image"><img loading="lazy"  src="https://james-y-yoon.github.io/media/posts/8/Screen-Shot-2022-09-13-at-1.54.48-AM.png" sizes="(max-width: 768px) 100vw, 1360px" srcset="https://james-y-yoon.github.io/media/posts/8/responsive/Screen-Shot-2022-09-13-at-1.54.48-AM-xs.png 300w ,https://james-y-yoon.github.io/media/posts/8/responsive/Screen-Shot-2022-09-13-at-1.54.48-AM-sm.png 480w ,https://james-y-yoon.github.io/media/posts/8/responsive/Screen-Shot-2022-09-13-at-1.54.48-AM-md.png 768w ,https://james-y-yoon.github.io/media/posts/8/responsive/Screen-Shot-2022-09-13-at-1.54.48-AM-lg.png 1024w ,https://james-y-yoon.github.io/media/posts/8/responsive/Screen-Shot-2022-09-13-at-1.54.48-AM-xl.png 1360w"  alt="Map that shows where the interviewees were born." width="974" height="642"><figcaption>Map that shows where the interviewees were born. Many of the interviewees were born in Hawai'i, the Pacific Northwest, the Bay Area, and Los Angeles, with some born in Japan and across the contiguous United States.</figcaption></figure>
+<hr>
 <h1>Special Thanks<br><br></h1>
 <p>Huge thanks to Janis Tanji Wong and Dr. Mitch Maki, as well as the rest of the Go For Broke staff, for being such amazing mentors throughout the ten weeks. Also a shoutout to Aurora Tang for being such an incredible learning community leader!</p>
             ]]>
@@ -116,7 +119,7 @@
         <id>https://james-y-yoon.github.io/air-qualitree/</id>
             <category term="Digital Humanities"/>
 
-        <updated>2022-09-13T02:16:29-07:00</updated>
+        <updated>2022-12-15T20:02:23-08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://james-y-yoon.github.io/media/posts/5/Environment.jpeg" alt="Pollution from smokestacks." />
@@ -181,7 +184,7 @@
             <category term="UX/UI"/>
             <category term="Digital Humanities"/>
 
-        <updated>2022-09-13T02:21:30-07:00</updated>
+        <updated>2022-12-15T20:03:48-08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://james-y-yoon.github.io/media/posts/3/Final_Prototype.png" alt="Final Prototype of my Ultimate-Guitar redesign." />
@@ -193,7 +196,7 @@
                     <img src="https://james-y-yoon.github.io/media/posts/3/Final_Prototype.png" alt="Final Prototype of my Ultimate-Guitar redesign." />
                 <p class="align-center"><em>How can we make music learning accessible?</em></p>
 <hr>
-<p class="align-left"><em> </em>Like many others who grew up on the World Wide Web, I learned the guitar through the Internet. Armed with my music theory knowledge from piano lessons, I scrolled through tablatures and supplemented my playing with the occassional YouTube video. However, no service was as crucial as Ultimate-Guitar in my guitar learning journey. By learning just a couple of chords in an evening, I was able to play along to some of my favorite songs: the latest pop hits, radio throwbacks, and the occassional classical piece.</p>
+<p class="align-left">Like many others who grew up on the World Wide Web, I learned the guitar through the Internet. Armed with my music theory knowledge from piano lessons, I scrolled through tablatures and supplemented my playing with the occassional YouTube video. However, no service was as crucial as Ultimate-Guitar in my guitar learning journey. By learning just a couple of chords in an evening, I was able to play along to some of my favorite songs: the latest pop hits, radio throwbacks, and the occassional classical piece.</p>
 <p>This UX/UI project, completed with Dr. Sookie Cho's guidance in UCLA's Digital Humanities 110 UX course, aimed to improve Ultimate-Guitar's user interface, focusing on a target audience of middle-aged, male guitar learners of all skill levels. </p>
 <div class="card">
 <div class="card-body">
@@ -208,6 +211,7 @@
 </div>
 </div>
 <p><a href="https://james-y-yoon.github.io/DH110-JamesYoon/" target="_blank" rel="noopener noreferrer">You can explore the design journey and the final prototype here</a>! </p>
+<hr>
 <h1>Special Thanks</h1>
 <p>Huge thanks to Sookie Cho and the rest of the DH 110 course for all of their help and reviews!</p>
             ]]>
