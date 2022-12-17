@@ -3,30 +3,28 @@
     <title>JAMES YOON</title>
     <link href="https://james-y-yoon.github.io/feed.xml" rel="self" />
     <link href="https://james-y-yoon.github.io" />
-    <updated>2022-12-15T20:03:48-08:00</updated>
+    <updated>2022-12-16T20:42:02-08:00</updated>
     <author>
         <name>James (Young Suk) Yoon</name>
     </author>
     <id>https://james-y-yoon.github.io</id>
 
     <entry>
-        <title>Atmospheric Chemistry Research</title>
+        <title>My Research</title>
         <author>
             <name>James (Young Suk) Yoon</name>
         </author>
         <link href="https://james-y-yoon.github.io/atmospheric-chemistry-research/"/>
         <id>https://james-y-yoon.github.io/atmospheric-chemistry-research/</id>
 
-        <updated>2022-12-15T20:02:27-08:00</updated>
+        <updated>2022-12-16T20:42:02-08:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://james-y-yoon.github.io/media/posts/9/isoprene.png" alt="" />
                     I'm currently a first-year Atmospheric Chemistry graduate student at the University of Washington's Department of Atmospheric Sciences. I'm co-advised by&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://james-y-yoon.github.io/media/posts/9/isoprene.png" alt="" />
                 <p>I'm currently a first-year <strong>Atmospheric Chemistry graduate student</strong> at the University of Washington's <em>Department of Atmospheric Sciences</em>. I'm co-advised by <a href="https://alexjturner.github.io/">Dr. Alex Turner</a> and <a href="https://www.atmos.washington.edu/~thornton/">Dr. Joel Thornton</a>.</p>
 <p>My research focuses on biogenic volatile organic compounds (VOCs) emissions, their chemical transformations in the atmosphere, and their potential impacts on air quality. Specifically, I'm interested in detecting <strong>biogenic isoprene emissions from broadleaf forests</strong>. I study these compounds through remote sensing techniques like infrared spectroscopy and <strong>solar-induced fluoresence (SIF)</strong>. My current project uses solar-induced fluoresence as a potential proxy for isoprene emissions. </p>
 <hr>
@@ -225,25 +223,22 @@
         <link href="https://james-y-yoon.github.io/about/"/>
         <id>https://james-y-yoon.github.io/about/</id>
 
-        <updated>2022-09-13T02:21:55-07:00</updated>
+        <updated>2022-12-16T20:36:19-08:00</updated>
             <summary>
                 <![CDATA[
-                    First, a warm welcome to my portfolio! ‍‍I'm a UW graduate student and a UCLA alum who is interested in&hellip;
+                    First, a warm welcome to my website! ‍‍I'm a UW graduate student and a UCLA alum who is interested in&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p class="p1">First, a warm welcome to my portfolio!</p>
+                <p class="p1">First, a warm welcome to my website!</p>
 <p class="p1"><i>‍</i>‍I'm a UW graduate student and a UCLA alum who is interested in a wide variety of fields: chemistry, education, atmospheric science, digital humanities, UX/UI, history, and communication. I'm a Northern California native, 1.5 generation Korean American, and a former Los Angeles transplant.<span class="Apple-converted-space"> </span></p>
-<figure class="post__image post__image--center" ><figure class="post__image"><img loading="lazy"  src="https://james-y-yoon.github.io/media/posts/2/james_powell.jpeg" sizes="(max-width: 768px) 100vw, 1360px" srcset="https://james-y-yoon.github.io/media/posts/2/responsive/james_powell-xs.jpeg 300w ,https://james-y-yoon.github.io/media/posts/2/responsive/james_powell-sm.jpeg 480w ,https://james-y-yoon.github.io/media/posts/2/responsive/james_powell-md.jpeg 768w ,https://james-y-yoon.github.io/media/posts/2/responsive/james_powell-lg.jpeg 1024w ,https://james-y-yoon.github.io/media/posts/2/responsive/james_powell-xl.jpeg 1360w"  alt="Portrait of James Yoon" width="400" height="400"></figure>
-<figcaption >In front of UCLA's Powell Library. Go Bruins!</figcaption>
-</figure>
-<p class="p1">At UCLA, I studied <strong>Chemistry, Atmospheric &amp; Oceanic Sciences, and Digital Humanities</strong> with a specialization in computing. There, I also fostered my continuing interest in Asian American Studies, oral histories, and feminist theory. I loved studying the intersections of gender, sexuality, and race, as well as epistemology from an ethnic studies and feminist lens. Can't forget Foucault too!</p>
-<p class="p1">I'm most interested in using my chemistry and technology background to tell humanistic stories.</p>
+<p class="p1">At UCLA, I studied <strong>Chemistry, Atmospheric &amp; Oceanic Sciences, and Digital Humanities</strong> with a specialization in computing. There, I also fostered my continuing interest in Asian American Studies, oral histories, and feminist theory. I loved studying the intersections of gender, sexuality, and race, as well as epistemology from an ethnic studies and feminist lens. To be completely honest, Foucault changed my life!</p>
+<p class="p1">I'm most interested in using my chemistry and technology background to tell stories about people and the environment. My broad interests span these three questions:</p>
 <ul>
-<li class="p1"><i>How do people interact with scientific research?</i></li>
-<li class="p1"><i>How can we make scientific data more relevant to the public? </i></li>
-<li class="p1"><i>How do we use quantitative and qualitative data in conjunction to amplify silenced narratives?</i></li>
+<li class="p1">How do <strong>anthropogenic and biogenic VOCs affect air quality</strong> and the oxidative capacity of the atmosphere?</li>
+<li class="p1">How do we use <strong>quantitative and qualitative data in conjunction</strong> to amplify silenced narratives? What biases go into the archival process?</li>
+<li>How can we <strong>make scientific data more relevant to the public</strong>? </li>
 </ul>
 <hr>
 <h2>Education</h2>
@@ -251,12 +246,16 @@
 <li><strong>First-year graduate student</strong> at the University of Washington's Department of Atmospheric Sciences
 <ul style="list-style-type: circle;">
 <li><em>September 2022 — Present</em></li>
-<li>Working in the <a href="https://www.atmos.washington.edu/~thornton/" target="_blank" rel="noopener noreferrer">Thornton Lab</a> to study atmospheric chemistry and secondary organic aerosols.</li>
+<li>Working in the <a href="https://alexjturner.github.io/" target="_blank" rel="noopener noreferrer">Turner</a> and <a href="https://www.atmos.washington.edu/~thornton/" target="_blank" rel="noopener noreferrer">Thornton Labs</a> to study biogenic volatile organic compounds through remote sensing and atmospheric modeling.
+<ul style="list-style-type: circle;">
+<li>Interested in my research? Read more about it on my <a href="https://james-y-yoon.github.io/atmospheric-chemistry-research/">Research page</a>.</li>
+</ul>
+</li>
 </ul>
 </li>
 </ul>
 <ul style="list-style-type: circle;">
-<li><strong>B.S. in Chemistry from the University of California, Los Angeles (UCLA)</strong>, with minors in Atmospheric &amp; Oceanic Sciences and Digital Humanities and a computing specialization
+<li><strong>B.S. in Chemistry from the University of California, Los Angeles (UCLA)</strong>, with minors in <em>Atmospheric &amp; Oceanic Sciences and Digital Humanities</em> and a computing specialization
 <ul style="list-style-type: circle;">
 <li><em>September 2018 — June 2022</em></li>
 <li>Worked in the <a href="https://sites.google.com/g.ucla.edu/stutz-group" target="_blank" rel="noopener noreferrer">Stutz Group</a> on atmospheric modeling of nitrous acid (HONO) and furfural using the PACT-1D model.</li>
