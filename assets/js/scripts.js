@@ -587,9 +587,13 @@ if (searchButton) {
  (function () {
 	let layoutButtons = document.querySelectorAll('.switchers__item');
 	let contentWrapper = document.querySelector('.l-grid');
-	let articles = contentWrapper.querySelectorAll('.c-card');
+	let articles;
 
-	if (!contentWrapper || !layoutButtons.length || !articles.length) {
+	if (contentWrapper) {
+		articles = contentWrapper.querySelectorAll('.c-card');
+	}
+
+	if (!contentWrapper || !layoutButtons.length || (articles && !articles.length)) {
 		return;
 	}
 

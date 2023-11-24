@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>James Yoon</title>
     <link href="https://james-y-yoon.github.io/feed.xml" rel="self" />
     <link href="https://james-y-yoon.github.io" />
-    <updated>2023-02-26T17:12:35-08:00</updated>
+    <updated>2023-11-23T20:04:27-08:00</updated>
     <author>
         <name>James (Young Suk) Yoon</name>
     </author>
@@ -17,16 +17,26 @@
         <link href="https://james-y-yoon.github.io/atmospheric-chemistry-research/"/>
         <id>https://james-y-yoon.github.io/atmospheric-chemistry-research/</id>
 
-        <updated>2022-12-16T20:42:02-08:00</updated>
+        <updated>2023-11-23T20:04:27-08:00</updated>
             <summary>
                 <![CDATA[
-                    I'm currently a first-year Atmospheric Chemistry graduate student at the University of Washington's Department of Atmospheric Sciences. I'm co-advised by&hellip;
+                    I'm a second-year Atmospheric Chemistry graduate student at the University of Washington's Department of Atmospheric Sciences. I'm co-advised by Dr.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>I'm currently a first-year <strong>Atmospheric Chemistry graduate student</strong> at the University of Washington's <em>Department of Atmospheric Sciences</em>. I'm co-advised by <a href="https://alexjturner.github.io/">Dr. Alex Turner</a> and <a href="https://www.atmos.washington.edu/~thornton/">Dr. Joel Thornton</a>.</p>
-<p>My research focuses on biogenic volatile organic compounds (VOCs) emissions, their chemical transformations in the atmosphere, and their potential impacts on air quality. Specifically, I'm interested in detecting <strong>biogenic isoprene emissions from broadleaf forests</strong>. I study these compounds through remote sensing techniques like infrared spectroscopy and <strong>solar-induced fluoresence (SIF)</strong>. My current project uses solar-induced fluoresence as a potential proxy for isoprene emissions. </p>
+                <p>I'm a second-year <strong>Atmospheric Chemistry graduate student</strong> at the University of Washington's Department of Atmospheric Sciences. I'm co-advised by <a href="https://alexjturner.github.io/">Dr. Alex Turner</a> and <a href="https://www.atmos.washington.edu/~thornton/">Dr. Joel Thornton</a>.</p>
+<hr>
+<p>Some of my primary research interests are:</p>
+<h2>(1) <strong>Biogenic Volatile Organic Compound (BVOC)</strong> emissions</h2>
+<p><strong>Biogenic volatile organic compounds (BVOCs)</strong> are molecules emitted primarily by land plants that constitute a significant portion of the total hydrocarbons emitted into the atmosphere. <strong>Isoprene</strong>, which is the most significant BVOC by emissions, contributes around 500 Tg C/year into the atmosphere, which makes it the most important non-methane hydrocarbon on a global scale. Once in the atmosphere, BVOCs are quickly oxidized by the hydroxyl (OH) radical and can create significant amounts of organic aerosols and tropospheric ozone.</p>
+<p>My interests are in<strong> quantifying these BVOC emissions and understanding what drives emissions</strong> through a combination of vegetation indices, isoprene satellite retrievals, and atmospheric modeling. Some of my preliminary work looks at how how isoprene columns vary with <strong>solar-induced fluoresence</strong>, as well as how isoprene drivers vary in tropical regions. Furthermore, I am interested in the remote sensing of BVOCs and constraining isoprene retrievals with large-eddy simulations and 3D atmospheric models (GEOS-Chem).</p>
+<h2>(2) Natural drivers of OH variability</h2>
+<p>Methane is a potent greenhouse gas that traps more infrared radiation on a per-molecule basis compared to carbon dioxide. However, unlike carbon dioxide, which is chemically unreactive when emitted, methane breaks down within 9-12 years through its reaction with the hydroxyl radical (OH). OH, often called the detergent of the atmosphere, is difficult to model, as it is produced and lost via chemical reactions (rather than direct emissions), only has a lifetime of around 1 second and cannot be detected directly through satellites. As a result, there is quite a bit of uncertainty in how much OH is present in models and how it may impact how quickly other compounds degrade, including methane.</p>
+<p>I am most interested in how natural hydrocarbon and NOx sources, namely isoprene and soil/biomass burning NOx, affects local and global OH concentrations. To do this, I use isoprene and NOx satellite retrievals and global atmospheric modeling to study how OH concentrations, and thus how methane lifetimes, change with different isoprene and NOx sources. Similarly, I'm also interested in biogenic methane emissions from wetlands, which also affects OH concentrations on interannual timescales.</p>
+<h2>(3) Oceanic organics</h2>
+<p>The ocean contributes to atmospheric chemistry through both organic and inorganic emissions. Oceanic isoprene from phytoplankton blooms could contribute ~2 Tg C/year, which may not be important on a global scale but could affect marine and coastal chemistry and air quality. </p>
+<p>I am most interested in marine isoprene emissions: what controls isoprene emissions, phytoplankton emission factors, and the impact of blooms on organic emissions and local atmospheric chemistry.</p>
 <hr>
 <h3>Past Research</h3>
 <p>Prior to coming to the University of Washington, I worked with Dr. Stan Sander and Dr. Zhao-Cheng Zeng on JPL's CLARS-FTS (Fourier-Transform infrared Spectrometer at the California Laboratory for Atmospheric Remote Sensing) instrument on Mt. Wilson, California. My project investigated <strong>high methane events during the 2015-2016 Aliso Canyon leak</strong> in Porter Ranch; I then extend the methodology to identify other potentially high methane events throughout the entire CLARS-FTS dataset (2011-2021). A paper on these high methane events is currently in the works.</p>
@@ -41,6 +51,7 @@
         </author>
         <link href="https://james-y-yoon.github.io/go-for-broke-national-education-center/"/>
         <id>https://james-y-yoon.github.io/go-for-broke-national-education-center/</id>
+        <media:content url="https://james-y-yoon.github.io/media/posts/8/GFBNEC.jpg" medium="image" />
             <category term="History"/>
             <category term="Digital Humanities"/>
 
@@ -53,23 +64,23 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://james-y-yoon.github.io/media/posts/8/GFBNEC.jpg" alt="Go For Broke Monument in Little Tokyo." />
+                    <p><img src="https://james-y-yoon.github.io/media/posts/8/GFBNEC.jpg" class="type:primaryImage" alt="Go For Broke Monument in Little Tokyo." /></p>
                 <p>During World War II, the United States government incarcerated over a hundred thousand Japanese Americans in camps like Manzanar and Tule Lake. For years, these Japanese Americans — many of whom were American citizens — lived in these camps, with their loyalty to the United States government questioned at every minute. However, despite this mass incarceration and anti-Japanese sentiment, many Nisei volunteered or were drafted into the army, going on to valiantly serve in the 442nd Regimental Combat Team, the 100th Battalion, and the Military Intelligence Service (among others). In both the European and Pacific theaters, these Nisei men and women fought in the battlefields, most notably risking their lives in the Rescue of the Lost Battalion; served as nurses and medics; and used their Japanese language skills to provide crucial intelligence for the American army. </p>
 <p>The <a href="https://goforbroke.org/" target="_blank" rel="noopener noreferrer">Go For Broke National Education Center</a> is a non-profit located in Los Angeles' Little Tokyo that honors the Nisei veteran story. As the Getty Marrow Collections Intern in Summer 2022, I scanned and digitized submitted archival materials, including photo albums and documents, to add to the organization's digital collections. I also conducted heuristic analysis on the website's UX/UI and accessibility and piloted ArcGIS storymaps to revamp the website's history content. </p>
 <h2>Final Project</h2>
 <p>For my final project, I recorded the demographics and metadata for 900+ oral histories in the Hanashi Oral History Collection and visualized the data using Tableau and Voyant Tools. It was such a great opportunity to create a new dataset, clean the data, and visualize it all over the course of ten weeks! </p>
 <p>Some of the visualizations can be found below!</p>
-<figure class="post__image" ><img loading="lazy" src="https://james-y-yoon.github.io/media/posts/8/Screen-Shot-2022-09-13-at-1.54.16-AM.png" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://james-y-yoon.github.io/media/posts/8/responsive/Screen-Shot-2022-09-13-at-1.54.16-AM-xs.png 384w ,https://james-y-yoon.github.io/media/posts/8/responsive/Screen-Shot-2022-09-13-at-1.54.16-AM-sm.png 600w ,https://james-y-yoon.github.io/media/posts/8/responsive/Screen-Shot-2022-09-13-at-1.54.16-AM-md.png 768w ,https://james-y-yoon.github.io/media/posts/8/responsive/Screen-Shot-2022-09-13-at-1.54.16-AM-lg.png 1200w ,https://james-y-yoon.github.io/media/posts/8/responsive/Screen-Shot-2022-09-13-at-1.54.16-AM-xl.png 1600w"  alt="Units represented in the Hanashi Oral History collection." width="1362" height="764">
+<figure class="post__image" ><img loading="lazy" src="https://james-y-yoon.github.io/media/posts/8/Screen-Shot-2022-09-13-at-1.54.16-AM.png" alt="Units represented in the Hanashi Oral History collection." width="1362" height="764" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://james-y-yoon.github.io/media/posts/8/responsive/Screen-Shot-2022-09-13-at-1.54.16-AM-xs.png 384w ,https://james-y-yoon.github.io/media/posts/8/responsive/Screen-Shot-2022-09-13-at-1.54.16-AM-sm.png 600w ,https://james-y-yoon.github.io/media/posts/8/responsive/Screen-Shot-2022-09-13-at-1.54.16-AM-md.png 768w ,https://james-y-yoon.github.io/media/posts/8/responsive/Screen-Shot-2022-09-13-at-1.54.16-AM-lg.png 1200w ,https://james-y-yoon.github.io/media/posts/8/responsive/Screen-Shot-2022-09-13-at-1.54.16-AM-xl.png 1600w">
 <figcaption >One of the data visualizations I created on Tableau showing the units represented in the Hanashi Oral History collection. Many of the interviewees were in the 442nd, the Military Intelligence Service, and the 100th Battalion.</figcaption>
 </figure>
-<figure class="post__image" ><img loading="lazy" src="https://james-y-yoon.github.io/media/posts/8/Screen-Shot-2022-09-13-at-1.54.30-AM.png" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://james-y-yoon.github.io/media/posts/8/responsive/Screen-Shot-2022-09-13-at-1.54.30-AM-xs.png 384w ,https://james-y-yoon.github.io/media/posts/8/responsive/Screen-Shot-2022-09-13-at-1.54.30-AM-sm.png 600w ,https://james-y-yoon.github.io/media/posts/8/responsive/Screen-Shot-2022-09-13-at-1.54.30-AM-md.png 768w ,https://james-y-yoon.github.io/media/posts/8/responsive/Screen-Shot-2022-09-13-at-1.54.30-AM-lg.png 1200w ,https://james-y-yoon.github.io/media/posts/8/responsive/Screen-Shot-2022-09-13-at-1.54.30-AM-xl.png 1600w"  alt="Another visualization that shows the incarceration camps and temporary detention facilities that the interviewees were in during WWII." width="1002" height="644">
+<figure class="post__image" ><img loading="lazy" src="https://james-y-yoon.github.io/media/posts/8/Screen-Shot-2022-09-13-at-1.54.30-AM.png" alt="Another visualization that shows the incarceration camps and temporary detention facilities that the interviewees were in during WWII." width="1002" height="644" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://james-y-yoon.github.io/media/posts/8/responsive/Screen-Shot-2022-09-13-at-1.54.30-AM-xs.png 384w ,https://james-y-yoon.github.io/media/posts/8/responsive/Screen-Shot-2022-09-13-at-1.54.30-AM-sm.png 600w ,https://james-y-yoon.github.io/media/posts/8/responsive/Screen-Shot-2022-09-13-at-1.54.30-AM-md.png 768w ,https://james-y-yoon.github.io/media/posts/8/responsive/Screen-Shot-2022-09-13-at-1.54.30-AM-lg.png 1200w ,https://james-y-yoon.github.io/media/posts/8/responsive/Screen-Shot-2022-09-13-at-1.54.30-AM-xl.png 1600w">
 <figcaption >Another visualization that shows the incarceration camps and temporary detention facilities that the interviewees were in during WWII.</figcaption>
 </figure>
 <p> </p>
-<figure class="post__image" ><img loading="lazy" src="https://james-y-yoon.github.io/media/posts/8/Screen-Shot-2022-09-13-at-1.54.38-AM.png" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://james-y-yoon.github.io/media/posts/8/responsive/Screen-Shot-2022-09-13-at-1.54.38-AM-xs.png 384w ,https://james-y-yoon.github.io/media/posts/8/responsive/Screen-Shot-2022-09-13-at-1.54.38-AM-sm.png 600w ,https://james-y-yoon.github.io/media/posts/8/responsive/Screen-Shot-2022-09-13-at-1.54.38-AM-md.png 768w ,https://james-y-yoon.github.io/media/posts/8/responsive/Screen-Shot-2022-09-13-at-1.54.38-AM-lg.png 1200w ,https://james-y-yoon.github.io/media/posts/8/responsive/Screen-Shot-2022-09-13-at-1.54.38-AM-xl.png 1600w"  alt="Visualization that shows the basic training camps and MIS language schools that the interviewees attended. Camp Savage and Fort Snelling were two iterations of the Military Intelligence Service's Language Schools in Minnesota." width="982" height="642">
+<figure class="post__image" ><img loading="lazy" src="https://james-y-yoon.github.io/media/posts/8/Screen-Shot-2022-09-13-at-1.54.38-AM.png" alt="Visualization that shows the basic training camps and MIS language schools that the interviewees attended. Camp Savage and Fort Snelling were two iterations of the Military Intelligence Service's Language Schools in Minnesota." width="982" height="642" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://james-y-yoon.github.io/media/posts/8/responsive/Screen-Shot-2022-09-13-at-1.54.38-AM-xs.png 384w ,https://james-y-yoon.github.io/media/posts/8/responsive/Screen-Shot-2022-09-13-at-1.54.38-AM-sm.png 600w ,https://james-y-yoon.github.io/media/posts/8/responsive/Screen-Shot-2022-09-13-at-1.54.38-AM-md.png 768w ,https://james-y-yoon.github.io/media/posts/8/responsive/Screen-Shot-2022-09-13-at-1.54.38-AM-lg.png 1200w ,https://james-y-yoon.github.io/media/posts/8/responsive/Screen-Shot-2022-09-13-at-1.54.38-AM-xl.png 1600w">
 <figcaption >Visualization that shows the basic training camps and MIS language schools that the interviewees attended. Camp Savage and Fort Snelling were two iterations of the Military Intelligence Service's Language Schools in Minnesota.</figcaption>
 </figure>
-<figure class="post__image"><img loading="lazy"  src="https://james-y-yoon.github.io/media/posts/8/Screen-Shot-2022-09-13-at-1.54.48-AM.png" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://james-y-yoon.github.io/media/posts/8/responsive/Screen-Shot-2022-09-13-at-1.54.48-AM-xs.png 384w ,https://james-y-yoon.github.io/media/posts/8/responsive/Screen-Shot-2022-09-13-at-1.54.48-AM-sm.png 600w ,https://james-y-yoon.github.io/media/posts/8/responsive/Screen-Shot-2022-09-13-at-1.54.48-AM-md.png 768w ,https://james-y-yoon.github.io/media/posts/8/responsive/Screen-Shot-2022-09-13-at-1.54.48-AM-lg.png 1200w ,https://james-y-yoon.github.io/media/posts/8/responsive/Screen-Shot-2022-09-13-at-1.54.48-AM-xl.png 1600w"  alt="Map that shows where the interviewees were born." width="974" height="642"><figcaption>Map that shows where the interviewees were born. Many of the interviewees were born in Hawai'i, the Pacific Northwest, the Bay Area, and Los Angeles, with some born in Japan and across the contiguous United States.</figcaption></figure>
+<figure class="post__image"><img loading="lazy"  src="https://james-y-yoon.github.io/media/posts/8/Screen-Shot-2022-09-13-at-1.54.48-AM.png" alt="Map that shows where the interviewees were born." width="974" height="642" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://james-y-yoon.github.io/media/posts/8/responsive/Screen-Shot-2022-09-13-at-1.54.48-AM-xs.png 384w ,https://james-y-yoon.github.io/media/posts/8/responsive/Screen-Shot-2022-09-13-at-1.54.48-AM-sm.png 600w ,https://james-y-yoon.github.io/media/posts/8/responsive/Screen-Shot-2022-09-13-at-1.54.48-AM-md.png 768w ,https://james-y-yoon.github.io/media/posts/8/responsive/Screen-Shot-2022-09-13-at-1.54.48-AM-lg.png 1200w ,https://james-y-yoon.github.io/media/posts/8/responsive/Screen-Shot-2022-09-13-at-1.54.48-AM-xl.png 1600w"><figcaption>Map that shows where the interviewees were born. Many of the interviewees were born in Hawai'i, the Pacific Northwest, the Bay Area, and Los Angeles, with some born in Japan and across the contiguous United States.</figcaption></figure>
 <hr>
 <h1>Special Thanks<br><br></h1>
 <p>Huge thanks to Janis Tanji Wong and Dr. Mitch Maki, as well as the rest of the Go For Broke staff, for being such amazing mentors throughout the ten weeks. Also a shoutout to Aurora Tang for being such an incredible learning community leader!</p>
@@ -77,37 +88,46 @@
         </content>
     </entry>
     <entry>
-        <title>Teaching</title>
+        <title>Teaching Experience</title>
         <author>
             <name>James (Young Suk) Yoon</name>
         </author>
         <link href="https://james-y-yoon.github.io/teaching/"/>
         <id>https://james-y-yoon.github.io/teaching/</id>
 
-        <updated>2022-12-18T15:48:11-08:00</updated>
+        <updated>2023-11-23T19:58:53-08:00</updated>
             <summary>
                 <![CDATA[
-                    The Learning Assistant Program At UCLA, I was a Head LA and a Program Development Team member for the Learning&hellip;
+                    ATM S 211: Climate and Climate Change teaching assistant w/ dr. kyle armour | fall 2023 | university of washington&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <h2>The Learning Assistant Program</h2>
-<p>At UCLA, I was a Head LA and a Program Development Team member for the Learning Assistant (LA) Program. The Learning Assistant (LA) Program at UCLA allows undergraduates who have previously taken a course to facilitate 20-30 student discussion sections or labs alongside graduate student TAs and course instructors. LAs also learn about collaborative learning and inclusive pedagogy during our quarterly seminar and apply these skills in large introductory STEM courses. <a href="https://ceils.ucla.edu/learning-communities-trainings/learning-assistant-program/" target="_blank" rel="noopener noreferrer">More about the LA program can be found on their website here.</a></p>
+                <h5>ATM S 211: Climate and Climate Change</h5>
+<p>teaching assistant w/ dr. kyle armour | fall 2023 | university of washington</p>
+<p><span dir="ltr" role="presentation">ATM S 211 is an climate science course for 100+ science (but not ATM S) majors. In this course, students learn about climate </span><span dir="ltr" role="presentation">science through a quantitative yet accessible lens, with content ranging from global warming to natural climate variability.</span></p>
+<p><span dir="ltr" role="presentation">I led four discussion sections every week and designed eight novel inquiry-based ”labs”. Activities ranged from creating their </span><span dir="ltr" role="presentation">own visualizations, working with climate models, simulating infrared molecular spectra, and interpreting satellite imagery.</span></p>
 <hr>
-<p>I LA'd for the following classes throughout my time at UCLA:</p>
-<h5><strong>Physics 4AL</strong>: Mechanics Laboratory for Scientists &amp; Engineers</h5>
-<pre><em>1 section; Fall 2020 with Dr. Ni</em><br><em>1 quarter as Pedagogy Head (Fall 2020); 1 quarter as Logistics Head</em></pre>
-<p>Physics 4AL is the first introductory physics laboratory taken by physics and engineering majors. The newly revamped course consisted of four units: a tutorial unit on Arduino and Python coding; an unit on 1D motion; an unit on momentum/oscillations; and a final project. Through this course, students received an introduction into Arduino and Python and conducted lab experiments on basic mechanics principles. Python principles used in this class were basic flow of control and functions; SciPy nonlinear and linear regressions; and analytical and numerical differentiation. </p>
-<h5><strong>Physics 4BL</strong>: Electromagnetism Laboratory for Scientists &amp; Engineers</h5>
-<pre><em>1 section in Spring 2020, 3 sections in Summer 2020A + B with Dr. Arisaka</em><br><em>1 quarter as Logistics Head</em></pre>
-<p>Physics 4BL is the second introductory physics laboratory and consisted of four units: a tutorial unit on Arduino and Python coding; an unit on oscillations and sound waves; a unit on more complex circuits (including RLC); and a final project. Python principles used in this class included nonlinear and linear regressions; Fast Fourier Transforms (FFTs) and spectrograms; and sinusoidal regression.</p>
-<h5>Physics 1C: Electrodynamics, Optics, and Special Relativity</h5>
-<pre><em>2 sections in Spring 2021 with Dr. Hauser</em><br><em>1 quarter as Logistics Head</em></pre>
-<p>Physics 1C is the third introductory physics course for physics and engineering majors. In this course, students learn magnetism (Ampere's Law, Biot-Savart); Maxwell's equations and electromagnetic waves; geometric and physical optics (lenses, mirrors, and diffraction/interference); and special relativity (Lorentz transformations, 4-vectors, time dilation). This course requires multivariable calculus and linear algebra as pre- or co-requisites.</p>
+<h5>ATM S 358: Fundamentals of Atmospheric Chemistry</h5>
+<p>course grader w/ dr. alex turner | spring 2023 | university of washington</p>
+<p>ATM S 358 is an upper-level atmospheric chemistry course for 30 ATM S (and related) majors. Concepts include atmospheric vertical structure and transport; biogeochemical cycles; chemical kinetics; stratospheric chemistry and ozone depletion; tropospheric chemistry; and photochemical smog formation.</p>
+<p><span dir="ltr" role="presentation">As a grader, I held weekly oﬀice hours, provided feedback on homework assignments and exams, and led problem set review </span><span dir="ltr" role="presentation">sessions.</span></p>
+<hr>
 <h5>Chemistry 113A: Quantum Chemistry</h5>
-<pre><em><code></code>1 section in Fall 2021 with Dr. Caram</em></pre>
+<p>regular LA w/ dr. caram | fall 2021 (1 section) | ucla</p>
 <p>Chemistry 113A is the second upper-division physical chemistry course taken by Chemistry majors. In this course, students learn how to solve the Schrodinger equation for the hydrogen atom, rotational/vibrational spectroscopy, variational methods, and perturbation theory. Along the way, necessary math skills were re-introduced, such as solving PDEs through separation of variables, eigenfunctions/eigenvectors, and Fourier transforms.</p>
+<hr>
+<h5>Physics 1C: Electrodynamics, Optics, and Special Relativity</h5>
+<p>logistics head LA w/ dr. hauser | spring 2021 (2 sections) | ucla</p>
+<p>Physics 1C is the third introductory physics course for physics and engineering majors. In this course, students learn magnetism (Ampere's Law, Biot-Savart); Maxwell's equations and electromagnetic waves; geometric and physical optics (lenses, mirrors, and diffraction/interference); and special relativity (Lorentz transformations, 4-vectors, time dilation). This course requires multivariable calculus and linear algebra as pre- or co-requisites.</p>
+<hr>
+<h5><strong>Physics 4AL</strong>: Mechanics Laboratory for Scientists &amp; Engineers</h5>
+<p>pedagogy + logistics head learning assistant w/ dr. ni | fall 2020 (1 section) + winter 2021 | ucla</p>
+<p>Physics 4AL is the first introductory physics laboratory taken by physics and engineering majors. The newly revamped course consisted of four units: a tutorial unit on Arduino and Python coding; an unit on 1D motion; an unit on momentum/oscillations; and a final project. Through this course, students received an introduction into Arduino and Python and conducted lab experiments on basic mechanics principles. Python principles used in this class were basic flow of control and functions; SciPy nonlinear and linear regressions; and analytical and numerical differentiation. </p>
+<hr>
+<h5><strong>Physics 4BL</strong>: Electromagnetism Laboratory for Scientists &amp; Engineers</h5>
+<p>logistics head LA w/ dr. arisaka | spring 2020 (1 section) + summer 2020 (3 sections) | ucla<em><br></em></p>
+<p>Physics 4BL is the second introductory physics laboratory and consisted of four units: a tutorial unit on Arduino and Python coding; an unit on oscillations and sound waves; a unit on more complex circuits (including RLC); and a final project. Python principles used in this class included nonlinear and linear regressions; Fast Fourier Transforms (FFTs) and spectrograms; and sinusoidal regression.</p>
 <hr>
 <h2>Program Development Team</h2>
 <p>During the 2021-2022 school year, I worked with Dr. Shanna Shaked, three graduate pedagogy seminar TAs, and 7 other experienced Head LAs in the Program Development Team as part of the <strong>Pedagogy</strong>, <strong>(Physical) Chemistry</strong>, and <strong>Social Media</strong> divisions.</p>
@@ -122,6 +142,7 @@
         </author>
         <link href="https://james-y-yoon.github.io/air-qualitree/"/>
         <id>https://james-y-yoon.github.io/air-qualitree/</id>
+        <media:content url="https://james-y-yoon.github.io/media/posts/5/Environment.jpeg" medium="image" />
             <category term="Digital Humanities"/>
 
         <updated>2022-12-15T20:02:23-08:00</updated>
@@ -133,7 +154,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://james-y-yoon.github.io/media/posts/5/Environment.jpeg" alt="Pollution from smokestacks." />
+                    <p><img src="https://james-y-yoon.github.io/media/posts/5/Environment.jpeg" class="type:primaryImage" alt="Pollution from smokestacks." /></p>
                 <h1>Description</h1>
 <p>AirQualitree was a project conducted for UCLA's introductory digital humanities course (Digital Humanities 101 with Dr. Ashley Sanders). I worked as a team of 6 to create a website containing data visualizations, maps, and timelines about environmental justice in Los Angeles.</p>
 <p>Our project studied three parameters in particular: air quality (PM 2.5), water quality, and urban greenspace to show how marginalized groups experience higher pollution burdens. I visualized air quality data on Python, constructed and edited a cohesive data narrative, and adjusted the website's headlines and layout for accessibility. Ultimately, we aimed to create a data-driven narrative illustrating environmental inequities.</p>
@@ -151,6 +172,7 @@
         </author>
         <link href="https://james-y-yoon.github.io/european-emigre-actors-in-hollywood/"/>
         <id>https://james-y-yoon.github.io/european-emigre-actors-in-hollywood/</id>
+        <media:content url="https://james-y-yoon.github.io/media/posts/4/Thomas_Mann.jpeg" medium="image" />
             <category term="History"/>
             <category term="Digital Humanities"/>
 
@@ -163,7 +185,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://james-y-yoon.github.io/media/posts/4/Thomas_Mann.jpeg" alt="Illustration by Cristiana Couceiro of Franz Werfel, Salka Viertel, Lion Feuchtwanger, and Thomas Mann, four influential European emigres." />
+                    <p><img src="https://james-y-yoon.github.io/media/posts/4/Thomas_Mann.jpeg" class="type:primaryImage" alt="Illustration by Cristiana Couceiro of Franz Werfel, Salka Viertel, Lion Feuchtwanger, and Thomas Mann, four influential European emigres." /></p>
                 <h2>Europeans in Exile: Thomas Mann in Los Angeles</h2>
 <p>Upon Hitler's rise to power and his subsequent invasions across Europe, persecuted individuals—many of whom were Jewish, artists, writers, and/or intellectuals, among others—tried to flee Germany through various routes. These <em>émigrés, </em>with many<em> </em>traveling from Marseilles to Spain and later to the United States through aid from organizations like the Emergency Rescue Committee, eventually settled in Los Angeles due to existing <em>émigré</em> support networks, contributing to L.A. art, Hollywood films, and Southern Californian architecture. </p>
 <p>This project, developed for <strong>Digital Humanities 187</strong> (Capstone Seminar) in collaboration with the Thomas Mann House, investigated the experiences and legacies of four European emigre actors: <strong>Peter Lorre, Hans Heinrich von Twardowski, Conrad Veidt, and Bela Lugosi</strong>.</p>
@@ -186,6 +208,7 @@
         </author>
         <link href="https://james-y-yoon.github.io/improving-the-uxui-of-ultimate-guitar/"/>
         <id>https://james-y-yoon.github.io/improving-the-uxui-of-ultimate-guitar/</id>
+        <media:content url="https://james-y-yoon.github.io/media/posts/3/Final_Prototype.png" medium="image" />
             <category term="UX/UI"/>
             <category term="Digital Humanities"/>
 
@@ -198,7 +221,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://james-y-yoon.github.io/media/posts/3/Final_Prototype.png" alt="Final Prototype of my Ultimate-Guitar redesign." />
+                    <p><img src="https://james-y-yoon.github.io/media/posts/3/Final_Prototype.png" class="type:primaryImage" alt="Final Prototype of my Ultimate-Guitar redesign." /></p>
                 <p class="align-center"><em>How can we make music learning accessible?</em></p>
 <hr>
 <p class="align-left">Like many others who grew up on the World Wide Web, I learned the guitar through the Internet. Armed with my music theory knowledge from piano lessons, I scrolled through tablatures and supplemented my playing with the occassional YouTube video. However, no service was as crucial as Ultimate-Guitar in my guitar learning journey. By learning just a couple of chords in an evening, I was able to play along to some of my favorite songs: the latest pop hits, radio throwbacks, and the occassional classical piece.</p>
@@ -223,23 +246,22 @@
         </content>
     </entry>
     <entry>
-        <title>About Me</title>
+        <title>about me</title>
         <author>
             <name>James (Young Suk) Yoon</name>
         </author>
         <link href="https://james-y-yoon.github.io/about/"/>
         <id>https://james-y-yoon.github.io/about/</id>
 
-        <updated>2023-02-26T17:12:35-08:00</updated>
+        <updated>2023-06-26T20:17:42-07:00</updated>
             <summary>
                 <![CDATA[
-                    First, a warm welcome to my website! ‍‍I'm a UW graduate student and a UCLA alum who is interested in&hellip;
+                    ‍‍I'm a UW graduate student and a UCLA alum who is interested in a wide variety of fields: chemistry, education,&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p class="p1">First, a warm welcome to my website!</p>
-<p class="p1"><i>‍</i>‍I'm a UW graduate student and a UCLA alum who is interested in a wide variety of fields: chemistry, education, atmospheric science, digital humanities, UX/UI, history, and communication. I'm a Northern California native, 1.5 generation Korean American, and a former Los Angeles transplant.<span class="Apple-converted-space"> </span></p>
+                <p class="p1"><i>‍</i>‍I'm a UW graduate student and a UCLA alum who is interested in a wide variety of fields: chemistry, education, atmospheric science, digital humanities, UX/UI, history, and communication. I'm a Northern California native, 1.5 generation Korean American, and a former Los Angeles transplant.<span class="Apple-converted-space"> </span></p>
 <p>I'm also a member of UCLA's <a href="https://hue.humspace.ucla.edu/" target="_blank" rel="noopener">Humans in User Experience</a> (HUE). We work with small businesses and nonprofits in the Los Angeles area to provide human-centered design and research.</p>
 <p class="p1">At UCLA, I studied <strong>Chemistry, Atmospheric &amp; Oceanic Sciences, and Digital Humanities</strong> with a specialization in computing. There, I also fostered my continuing interest in Asian American Studies, oral histories, and feminist theory. I loved studying the intersections of gender, sexuality, and race, as well as epistemology from an ethnic studies and feminist lens. To be completely honest, Foucault changed my life!</p>
 <p class="p1">I'm most interested in using my chemistry and technology background to tell stories about people and the environment. My broad interests span these three questions:</p>
